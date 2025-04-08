@@ -1,4 +1,4 @@
-# NS2 (Network Simulator 2) Guide for Viva Preparation
+# NS2 (Network Simulator 2) 
 
 ## Introduction to NS2
 
